@@ -1,0 +1,455 @@
+[
+  {
+    "id": "jrc-bev-cold-temp-2024",
+    "title": "JRC EV Cold Weather Real-World Energy Consumption & Sub-Zero Range Degradation",
+    "category": "electric_vehicle",
+    "publication_year": 2024,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-bev-cold-temp-2024",
+    "metadata_text": "Title: JRC EV Cold Weather Real-World Energy Consumption & Sub-Zero Range Degradation\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-bev-cold-temp-2024\nCategory: electric_vehicle\nPublication Year: 2024\nTags: electric vehicle, cold weather, range degradation, BEV, battery efficiency, VELA\n\nDescription:\nComprehensive empirical dataset recorded by the European Commission Joint Research Centre (JRC) Vehicle Emissions Laboratory (VELA 2). Analyzes battery electric vehicle (BEV) performance at ambient temperatures from -15°C to 23°C across WLTC and real-world urban/highway drive cycles. Key findings demonstrate a 28% to 42% range reduction at sub-zero temperatures due to lithium-ion electrochemical impedance increase and 3.8 kW HVAC resistive cabin heating. Grid pre-conditioning mitigates thermal energy penalty by 18%.\n\nAvailable Resources:\n- JRC_EV_Cold_Weather_Report_2024.pdf (PDF): Technical report on sub-zero BEV energy consumption and thermal cabin HVAC power draw.",
+    "pdf_text": "",
+    "tags": [
+      "electric vehicle",
+      "cold weather",
+      "range degradation",
+      "BEV",
+      "battery efficiency",
+      "VELA"
+    ]
+  },
+  {
+    "id": "jrc-bev-heat-pump-cop-2024",
+    "title": "JRC VELA Laboratory: BEV Heat Pump Coefficient of Performance (COP) & Range Recovery Analysis",
+    "category": "electric_vehicle",
+    "publication_year": 2024,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-bev-heat-pump-cop-2024",
+    "metadata_text": "Title: JRC VELA Laboratory: BEV Heat Pump Coefficient of Performance (COP) & Range Recovery Analysis\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-bev-heat-pump-cop-2024\nCategory: electric_vehicle\nPublication Year: 2024\nTags: electric vehicle, heat pump, COP, thermal management, PTC heater, BEV efficiency\n\nDescription:\nComparative assessment of BEV thermal management architectures featuring R744 (CO2) and R1234yf heat pumps versus positive temperature coefficient (PTC) resistive heaters. Heat pump thermal circuits maintained an average COP of 2.1 at -5°C ambient, reducing cabin heating power draw from 3.5 kW to 1.2 kW and preserving 15-22% total vehicle range.\n\nAvailable Resources:\n- JRC_Heat_Pump_BEV_Efficiency_2024.pdf (PDF): Heat pump COP measurements and cabin thermal comfort evaluations in VELA climate chambers.",
+    "pdf_text": "",
+    "tags": [
+      "electric vehicle",
+      "heat pump",
+      "COP",
+      "thermal management",
+      "PTC heater",
+      "BEV efficiency"
+    ]
+  },
+  {
+    "id": "jrc-bev-fast-charge-degradation-2023",
+    "title": "JRC Battery Cell Durability: High-Power Fast Charging (DCFC) Thermal Stress & Capacity Fade",
+    "category": "electric_vehicle",
+    "publication_year": 2023,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-bev-fast-charge-degradation-2023",
+    "metadata_text": "Title: JRC Battery Cell Durability: High-Power Fast Charging (DCFC) Thermal Stress & Capacity Fade\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-bev-fast-charge-degradation-2023\nCategory: electric_vehicle\nPublication Year: 2023\nTags: electric vehicle, fast charging, battery degradation, NMC, LFP, SEI layer\n\nDescription:\nAccelerated aging study of NMC-811 and LFP battery cells under 150 kW - 350 kW DC Fast Charging regimes. Demonstrates solid electrolyte interphase (SEI) growth acceleration when fast-charging below 15°C cell core temperature without pre-heating, causing 12% faster capacity fade over 800 cycles.\n\nAvailable Resources:\n- JRC_DCFC_Battery_Aging_Study_2023.pdf (PDF): Experimental battery degradation profiles under ultra-fast DC charging profiles.",
+    "pdf_text": "",
+    "tags": [
+      "electric vehicle",
+      "fast charging",
+      "battery degradation",
+      "NMC",
+      "LFP",
+      "SEI layer"
+    ]
+  },
+  {
+    "id": "jrc-ev-battery-soh-estimation-2023",
+    "title": "JRC In-Service Battery State of Health (SoH) Monitoring & Eco-Design Verification",
+    "category": "electric_vehicle",
+    "publication_year": 2023,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-ev-battery-soh-estimation-2023",
+    "metadata_text": "Title: JRC In-Service Battery State of Health (SoH) Monitoring & Eco-Design Verification\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-ev-battery-soh-estimation-2023\nCategory: electric_vehicle\nPublication Year: 2023\nTags: electric vehicle, State of Health, SoH, battery durability, BMS, Euro 7\n\nDescription:\nValidation of onboard battery management system (BMS) SoH accuracy across 450 field electric vehicles. Findings indicate BMS SoH algorithms overestimate remaining capacity by 2.4% after 5 years, supporting EU Euro 7 battery durability regulatory standards (80% capacity retention after 5 yrs / 100,000 km).\n\nAvailable Resources:\n- JRC_Battery_SoH_Monitoring_2023.pdf (PDF): Field dataset on electric vehicle battery State of Health metrics.",
+    "pdf_text": "",
+    "tags": [
+      "electric vehicle",
+      "State of Health",
+      "SoH",
+      "battery durability",
+      "BMS",
+      "Euro 7"
+    ]
+  },
+  {
+    "id": "jrc-bev-auxiliary-load-impact-2024",
+    "title": "JRC Investigation of Auxiliary Electrical Loads on BEV Urban Driving Efficiency",
+    "category": "electric_vehicle",
+    "publication_year": 2024,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-bev-auxiliary-load-impact-2024",
+    "metadata_text": "Title: JRC Investigation of Auxiliary Electrical Loads on BEV Urban Driving Efficiency\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-bev-auxiliary-load-impact-2024\nCategory: electric_vehicle\nPublication Year: 2024\nTags: electric vehicle, auxiliary loads, urban energy efficiency, BEV consumption\n\nDescription:\nQuantification of non-powertrain electrical consumption (infotainment, ADAS compute, battery thermal loop pumps, headlamps). In slow urban congestion (<20 km/h average speed), baseline auxiliary loads of 800 W consume up to 18% of total traction battery energy per kilometer.\n\nAvailable Resources:\n- JRC_Auxiliary_Loads_BEV_2024.pdf (PDF): Detailed breakdowns of electric vehicle power draw components.",
+    "pdf_text": "",
+    "tags": [
+      "electric vehicle",
+      "auxiliary loads",
+      "urban energy efficiency",
+      "BEV consumption"
+    ]
+  },
+  {
+    "id": "jrc-ev-regenerative-braking-2023",
+    "title": "JRC Test Report: Regenerative Braking Energy Recovery Efficiency across Temperature Gradients",
+    "category": "electric_vehicle",
+    "publication_year": 2023,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-ev-regenerative-braking-2023",
+    "metadata_text": "Title: JRC Test Report: Regenerative Braking Energy Recovery Efficiency across Temperature Gradients\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-ev-regenerative-braking-2023\nCategory: electric_vehicle\nPublication Year: 2023\nTags: electric vehicle, regenerative braking, energy recuperation, bms throttling\n\nDescription:\nEvaluation of brake energy recuperation efficiency on low-friction snow and wet asphalt. At -10°C, regenerative braking power acceptance is throttled by BMS by up to 60% to prevent lithium plating, increasing friction brake utilization during initial driving minutes.\n\nAvailable Resources:\n- JRC_Regen_Braking_Cold_2023.pdf (PDF): Regenerative braking energy balance under low-temperature conditions.",
+    "pdf_text": "",
+    "tags": [
+      "electric vehicle",
+      "regenerative braking",
+      "energy recuperation",
+      "bms throttling"
+    ]
+  },
+  {
+    "id": "jrc-bev-tire-rolling-resistance-2024",
+    "title": "JRC Study on EV Specific Winter Tires & Aerodynamic Drag Influence on Highway Range",
+    "category": "electric_vehicle",
+    "publication_year": 2024,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-bev-tire-rolling-resistance-2024",
+    "metadata_text": "Title: JRC Study on EV Specific Winter Tires & Aerodynamic Drag Influence on Highway Range\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-bev-tire-rolling-resistance-2024\nCategory: electric_vehicle\nPublication Year: 2024\nTags: electric vehicle, rolling resistance, aerodynamic drag, winter tires\n\nDescription:\nImpact analysis of specialized winter EV tires (Class A vs Class C rolling resistance) combined with cold air density increases (+14% aerodynamic drag at -5°C). High-speed highway consumption increases by 24 kWh/100km.\n\nAvailable Resources:\n- JRC_EV_Tires_Aero_Cold_2024.pdf (PDF): Highway BEV range impact factors from tires and aerodynamic drag.",
+    "pdf_text": "",
+    "tags": [
+      "electric vehicle",
+      "rolling resistance",
+      "aerodynamic drag",
+      "winter tires"
+    ]
+  },
+  {
+    "id": "jrc-ev-grid-integration-v2g-2023",
+    "title": "JRC Vehicle-to-Grid (V2G) Bi-Directional Charging Efficiency & Battery Stress Assessment",
+    "category": "electric_vehicle",
+    "publication_year": 2023,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-ev-grid-integration-v2g-2023",
+    "metadata_text": "Title: JRC Vehicle-to-Grid (V2G) Bi-Directional Charging Efficiency & Battery Stress Assessment\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-ev-grid-integration-v2g-2023\nCategory: electric_vehicle\nPublication Year: 2023\nTags: electric vehicle, V2G, bi-directional charging, grid integration, efficiency\n\nDescription:\nTesting of AC/DC V2G chargers. Round-trip efficiency averaged 84.2%. Battery throughput degradation from V2G peak shaving was offset by battery temperature control during idle grid connection.\n\nAvailable Resources:\n- JRC_V2G_Efficiency_Report_2023.pdf (PDF): Assessment of bi-directional EV charging infrastructure.",
+    "pdf_text": "",
+    "tags": [
+      "electric vehicle",
+      "V2G",
+      "bi-directional charging",
+      "grid integration",
+      "efficiency"
+    ]
+  },
+  {
+    "id": "jrc-ev-thermal-runaway-safety-2024",
+    "title": "JRC Safety Assessment: Battery Thermal Runaway Propagation & Mitigation Standards",
+    "category": "electric_vehicle",
+    "publication_year": 2024,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-ev-thermal-runaway-safety-2024",
+    "metadata_text": "Title: JRC Safety Assessment: Battery Thermal Runaway Propagation & Mitigation Standards\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-ev-thermal-runaway-safety-2024\nCategory: electric_vehicle\nPublication Year: 2024\nTags: electric vehicle, battery safety, thermal runaway, UN ECE R100, battery pack\n\nDescription:\nNail penetration and overcharge safety testing of EV pack thermal barriers (aerogel, ceramic sheets). Thermal containment delays cell-to-cell propagation beyond the 5-minute safety evacuation window required by UN ECE R100.03.\n\nAvailable Resources:\n- JRC_EV_Pack_Safety_2024.pdf (PDF): Battery pack thermal propagation test dataset.",
+    "pdf_text": "",
+    "tags": [
+      "electric vehicle",
+      "battery safety",
+      "thermal runaway",
+      "UN ECE R100",
+      "battery pack"
+    ]
+  },
+  {
+    "id": "jrc-ev-fleet-charging-behavior-2023",
+    "title": "JRC European EV Fleet Charging Infrastructure Utilization & Load Profile Dataset",
+    "category": "electric_vehicle",
+    "publication_year": 2023,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-ev-fleet-charging-behavior-2023",
+    "metadata_text": "Title: JRC European EV Fleet Charging Infrastructure Utilization & Load Profile Dataset\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-ev-fleet-charging-behavior-2023\nCategory: electric_vehicle\nPublication Year: 2023\nTags: electric vehicle, charging infrastructure, charging profiles, fleet data\n\nDescription:\nLogging of 85,000 public and residential EV charging sessions across 8 EU member states. Overnight home charging at 7 kW accounts for 68% of total energy delivered.\n\nAvailable Resources:\n- JRC_EV_Charging_Behavior_2023.pdf (PDF): EV charging session profiles and grid demand curves.",
+    "pdf_text": "",
+    "tags": [
+      "electric vehicle",
+      "charging infrastructure",
+      "charging profiles",
+      "fleet data"
+    ]
+  },
+  {
+    "id": "jrc-phev-wltp-gap-2023",
+    "title": "JRC Market Surveillance: Real-World Fuel Consumption vs official WLTP Ratings for Plug-In Hybrids",
+    "category": "phev_hybrids",
+    "publication_year": 2023,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-phev-wltp-gap-2023",
+    "metadata_text": "Title: JRC Market Surveillance: Real-World Fuel Consumption vs official WLTP Ratings for Plug-In Hybrids\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-phev-wltp-gap-2023\nCategory: phev_hybrids\nPublication Year: 2023\nTags: plug-in hybrid, PHEV, WLTP gap, real world fuel consumption, OBFCM, utility factor\n\nDescription:\nEvaluation of On-Board Fuel Consumption Monitoring (OBFCM) data collected from 123,000 Plug-in Hybrid Electric Vehicles (PHEVs) across Europe. Real-world fuel consumption averages 3.5 to 4.2 times higher (4.0-4.5 l/100km higher) than official WLTP homologation values (1.2-1.5 l/100km). Discrepancy is caused by lower real-world utility factors (infrequent charging) and engine starts during high thermal heating demand.\n\nAvailable Resources:\n- JRC_PHEV_OBFCM_Monitoring_2023.pdf (PDF): Analysis of real-world PHEV fuel consumption and utility factor deviations in Europe.",
+    "pdf_text": "",
+    "tags": [
+      "plug-in hybrid",
+      "PHEV",
+      "WLTP gap",
+      "real world fuel consumption",
+      "OBFCM",
+      "utility factor"
+    ]
+  },
+  {
+    "id": "jrc-phev-utility-factor-revision-2024",
+    "title": "JRC Proposal for Revised PHEV Utility Factor Curves under Euro 6e / Euro 7 Norms",
+    "category": "phev_hybrids",
+    "publication_year": 2024,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-phev-utility-factor-revision-2024",
+    "metadata_text": "Title: JRC Proposal for Revised PHEV Utility Factor Curves under Euro 6e / Euro 7 Norms\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-phev-utility-factor-revision-2024\nCategory: phev_hybrids\nPublication Year: 2024\nTags: plug-in hybrid, utility factor, Euro 6e, Euro 7, CO2 compliance\n\nDescription:\nTechnical foundation for the amendment of Regulation (EU) 2017/1151 regarding utility factor formulas for PHEV CO2 compliance calculations. Adjusting utility factor coefficients based on empirical OBFCM data reduces artificial CO2 credits for PHEVs by 50% starting in 2025.\n\nAvailable Resources:\n- JRC_PHEV_Utility_Factor_2024.pdf (PDF): Methodology for updating PHEV utility factors.",
+    "pdf_text": "",
+    "tags": [
+      "plug-in hybrid",
+      "utility factor",
+      "Euro 6e",
+      "Euro 7",
+      "CO2 compliance"
+    ]
+  },
+  {
+    "id": "jrc-phev-cold-engine-emissions-2023",
+    "title": "JRC Study: Cold Internal Combustion Engine Activation Emissions in PHEV Charge-Depleting Mode",
+    "category": "phev_hybrids",
+    "publication_year": 2023,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-phev-cold-engine-emissions-2023",
+    "metadata_text": "Title: JRC Study: Cold Internal Combustion Engine Activation Emissions in PHEV Charge-Depleting Mode\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-phev-cold-engine-emissions-2023\nCategory: phev_hybrids\nPublication Year: 2023\nTags: plug-in hybrid, charge depleting mode, cold start, NOx spikes, PHEV emissions\n\nDescription:\nTesting of PHEVs when sudden heavy acceleration triggers internal combustion engine ignition while driving in EV electric mode. Cold catalytic converter temperatures result in short NOx spikes up to 800 mg/km during the first 120 seconds of engine activation.\n\nAvailable Resources:\n- JRC_PHEV_Cold_Engine_Starts_2023.pdf (PDF): PHEV engine start emissions in charge-depleting operation.",
+    "pdf_text": "",
+    "tags": [
+      "plug-in hybrid",
+      "charge depleting mode",
+      "cold start",
+      "NOx spikes",
+      "PHEV emissions"
+    ]
+  },
+  {
+    "id": "jrc-phev-battery-degradation-field-2024",
+    "title": "JRC Field Investigation: High-C Rate Cycle Aging of PHEV Traction Batteries",
+    "category": "phev_hybrids",
+    "publication_year": 2024,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-phev-battery-degradation-field-2024",
+    "metadata_text": "Title: JRC Field Investigation: High-C Rate Cycle Aging of PHEV Traction Batteries\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-phev-battery-degradation-field-2024\nCategory: phev_hybrids\nPublication Year: 2024\nTags: plug-in hybrid, battery degradation, C-rate, capacity loss, PHEV battery\n\nDescription:\nPHEV batteries experience higher effective C-rates (2C to 4C discharge during electric acceleration) compared to BEVs. Over 100,000 km, capacity degradation averaged 16.5% due to high full-equivalent cycle count per total driven distance.\n\nAvailable Resources:\n- JRC_PHEV_Battery_Field_Degradation_2024.pdf (PDF): Field durability results for PHEV batteries.",
+    "pdf_text": "",
+    "tags": [
+      "plug-in hybrid",
+      "battery degradation",
+      "C-rate",
+      "capacity loss",
+      "PHEV battery"
+    ]
+  },
+  {
+    "id": "jrc-phev-commercial-fleet-monitoring-2023",
+    "title": "JRC Report: PHEVs in Corporate Fleets — Fuel Consumption & Charging Practices Analysis",
+    "category": "phev_hybrids",
+    "publication_year": 2023,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-phev-commercial-fleet-monitoring-2023",
+    "metadata_text": "Title: JRC Report: PHEVs in Corporate Fleets — Fuel Consumption & Charging Practices Analysis\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-phev-commercial-fleet-monitoring-2023\nCategory: phev_hybrids\nPublication Year: 2023\nTags: plug-in hybrid, corporate fleet, fuel consumption, charge sustaining mode\n\nDescription:\nSurvey and telemetry monitoring of 15,000 company car PHEVs. Uncharged company PHEVs achieved average fuel consumption of 6.8 l/100km due to added battery mass penalizing fuel economy when operated in charge-sustaining mode.\n\nAvailable Resources:\n- JRC_Corporate_PHEV_Report_2023.pdf (PDF): Corporate fleet PHEV fuel logging and telemetry report.",
+    "pdf_text": "",
+    "tags": [
+      "plug-in hybrid",
+      "corporate fleet",
+      "fuel consumption",
+      "charge sustaining mode"
+    ]
+  },
+  {
+    "id": "jrc-rde-vehicle-emissions-2023",
+    "title": "JRC Real Driving Emissions (RDE) Passenger Car On-Road Testing Campaign",
+    "category": "rde_emissions",
+    "publication_year": 2023,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-rde-vehicle-emissions-2023",
+    "metadata_text": "Title: JRC Real Driving Emissions (RDE) Passenger Car On-Road Testing Campaign\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-rde-vehicle-emissions-2023\nCategory: rde_emissions\nPublication Year: 2023\nTags: vehicle emissions, RDE, PEMS, NOx, CO2 emissions, Euro 6d, real driving conditions\n\nDescription:\nOn-road Portable Emission Measurement Systems (PEMS) testing data for Euro 6d-temp and Euro 6d diesel and gasoline vehicles across European climates and elevation profiles. Average NOx conformity factors for Euro 6d diesel cars were 0.65-0.90 (well within legal 1.43 CF limit). Urban cold-start emissions represent up to 60% of total trip NOx emissions.\n\nAvailable Resources:\n- JRC_RDE_PEMS_Emissions_Data_2023.pdf (PDF): PEMS measurement campaign results for passenger car NOx and particle number emissions.",
+    "pdf_text": "",
+    "tags": [
+      "vehicle emissions",
+      "RDE",
+      "PEMS",
+      "NOx",
+      "CO2 emissions",
+      "Euro 6d",
+      "real driving conditions"
+    ]
+  },
+  {
+    "id": "jrc-rde-pn-10nm-particles-2024",
+    "title": "JRC Sub-23nm Particle Number (PN) Emissions Measurement under Euro 7 RDE Protocols",
+    "category": "rde_emissions",
+    "publication_year": 2024,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-rde-pn-10nm-particles-2024",
+    "metadata_text": "Title: JRC Sub-23nm Particle Number (PN) Emissions Measurement under Euro 7 RDE Protocols\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-rde-pn-10nm-particles-2024\nCategory: rde_emissions\nPublication Year: 2024\nTags: vehicle emissions, RDE, PN10, ultrafine particles, Euro 7, GPF\n\nDescription:\nPEMS testing evaluating particle number emissions down to 10 nm size threshold (PN10) for direct-injection gasoline (GDI) and diesel vehicles. Including sub-23nm ultrafine particles increases measured PN emissions count by 25-40%, necessitating gasoline particulate filter (GPF) optimization under Euro 7.\n\nAvailable Resources:\n- JRC_PN10_RDE_Emissions_2024.pdf (PDF): Sub-23nm particle number measurement protocols and PEMS results.",
+    "pdf_text": "",
+    "tags": [
+      "vehicle emissions",
+      "RDE",
+      "PN10",
+      "ultrafine particles",
+      "Euro 7",
+      "GPF"
+    ]
+  },
+  {
+    "id": "jrc-co2-monitoring-obfcm-2024",
+    "title": "JRC Report: Real-World CO2 Emissions & Fuel Consumption Monitoring of EU Passenger Fleet",
+    "category": "rde_emissions",
+    "publication_year": 2024,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-co2-monitoring-obfcm-2024",
+    "metadata_text": "Title: JRC Report: Real-World CO2 Emissions & Fuel Consumption Monitoring of EU Passenger Fleet\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-co2-monitoring-obfcm-2024\nCategory: rde_emissions\nPublication Year: 2024\nTags: CO2 emissions, passenger cars, WLTP, OBFCM, fuel consumption monitoring real world\n\nDescription:\nAnnual synthesis of OBFCM data covering 600,000 passenger vehicles registered in the EU. Highlights a 14% real-world gap for pure internal combustion engine (ICE) vehicles compared to WLTP laboratory ratings, whereas PHEVs exhibit a 250%+ gap.\n\nAvailable Resources:\n- JRC_EU_CO2_OBFCM_Synthesis_2024.pdf (PDF): Statistical report on EU fleet real-world CO2 emissions and fuel consumption.",
+    "pdf_text": "",
+    "tags": [
+      "CO2 emissions",
+      "passenger cars",
+      "WLTP",
+      "OBFCM",
+      "fuel consumption monitoring real world"
+    ]
+  },
+  {
+    "id": "jrc-rde-extreme-temperature-emissions-2023",
+    "title": "JRC Assessment of RDE Emission Performance under Extreme Ambient Temperatures (-7°C to 35°C)",
+    "category": "rde_emissions",
+    "publication_year": 2023,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-rde-extreme-temperature-emissions-2023",
+    "metadata_text": "Title: JRC Assessment of RDE Emission Performance under Extreme Ambient Temperatures (-7°C to 35°C)\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-rde-extreme-temperature-emissions-2023\nCategory: rde_emissions\nPublication Year: 2023\nTags: vehicle emissions, RDE, extreme temperatures, SCR dosing, NOx penalty\n\nDescription:\nPEMS testing in cold climate (Finland) and high ambient temperatures (Southern Spain). At -7°C, Selective Catalytic Reduction (SCR) dosing delay due to low exhaust gas temperatures increased trip NOx by 75 mg/km.\n\nAvailable Resources:\n- JRC_RDE_Temperature_Extremes_2023.pdf (PDF): Temperature boundary condition testing under RDE emissions.",
+    "pdf_text": "",
+    "tags": [
+      "vehicle emissions",
+      "RDE",
+      "extreme temperatures",
+      "SCR dosing",
+      "NOx penalty"
+    ]
+  },
+  {
+    "id": "jrc-brake-tire-wear-emissions-2024",
+    "title": "JRC Measurement of Non-Exhaust Brake and Tire Wear Particulate Matter (PM2.5 / PM10)",
+    "category": "rde_emissions",
+    "publication_year": 2024,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-brake-tire-wear-emissions-2024",
+    "metadata_text": "Title: JRC Measurement of Non-Exhaust Brake and Tire Wear Particulate Matter (PM2.5 / PM10)\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-brake-tire-wear-emissions-2024\nCategory: rde_emissions\nPublication Year: 2024\nTags: non-exhaust emissions, brake wear, tire wear, PM2.5, Euro 7, BEV mass\n\nDescription:\nCharacterization of non-exhaust emissions from friction brakes and tire-road abrasion for ICE and heavy BEV passenger cars. Regenerative braking in BEVs reduces brake wear PM mass emissions by 65-80%, mitigating the PM mass penalty from increased vehicle weight.\n\nAvailable Resources:\n- JRC_Non_Exhaust_Emissions_2024.pdf (PDF): Brake and tire wear PM particle sampling datasets.",
+    "pdf_text": "",
+    "tags": [
+      "non-exhaust emissions",
+      "brake wear",
+      "tire wear",
+      "PM2.5",
+      "Euro 7",
+      "BEV mass"
+    ]
+  },
+  {
+    "id": "jrc-fcev-durability-testing-2024",
+    "title": "JRC Fuel Cell Electric Vehicle (FCEV) Heavy-Duty Stack Durability & Degradation Campaign",
+    "category": "hydrogen_heavy_duty",
+    "publication_year": 2024,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-fcev-durability-testing-2024",
+    "metadata_text": "Title: JRC Fuel Cell Electric Vehicle (FCEV) Heavy-Duty Stack Durability & Degradation Campaign\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-fcev-durability-testing-2024\nCategory: hydrogen_heavy_duty\nPublication Year: 2024\nTags: hydrogen, fuel cell, FCEV, PEMFC, heavy duty, durability, MEA degradation\n\nDescription:\nLong-term laboratory testing of 150 kW Proton Exchange Membrane Fuel Cell (PEMFC) stacks for heavy-duty long-haul trucks. Membrane electrode assembly (MEA) voltage degradation was measured at 8.2 uV/hour during dynamic load cycling. Startup/shutdown thermal cycles contribute 45% of total platinum catalyst surface area loss.\n\nAvailable Resources:\n- JRC_FCEV_Heavy_Duty_Stack_2024.pdf (PDF): PEMFC stack durability and degradation test logging.",
+    "pdf_text": "",
+    "tags": [
+      "hydrogen",
+      "fuel cell",
+      "FCEV",
+      "PEMFC",
+      "heavy duty",
+      "durability",
+      "MEA degradation"
+    ]
+  },
+  {
+    "id": "jrc-hydrogen-refueling-hrs-safety-2023",
+    "title": "JRC Technical Standards for 700 bar Heavy-Duty Hydrogen Refueling Stations (HRS)",
+    "category": "hydrogen_heavy_duty",
+    "publication_year": 2023,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-hydrogen-refueling-hrs-safety-2023",
+    "metadata_text": "Title: JRC Technical Standards for 700 bar Heavy-Duty Hydrogen Refueling Stations (HRS)\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-hydrogen-refueling-hrs-safety-2023\nCategory: hydrogen_heavy_duty\nPublication Year: 2023\nTags: hydrogen, HRS, refueling station, 700 bar, pre-cooling, Type IV tank\n\nDescription:\nAssessment of high-flow 700 bar hydrogen fueling protocols (MC Formula protocol) for heavy transport. Pre-cooling hydrogen gas to -40°C prevents Type IV carbon-fiber composite tank over-temperature limits (85°C) during 10-minute 8 kg/min fueling.\n\nAvailable Resources:\n- JRC_HRS_Refueling_Protocols_2023.pdf (PDF): 700 bar hydrogen fueling safety and thermodynamic evaluation.",
+    "pdf_text": "",
+    "tags": [
+      "hydrogen",
+      "HRS",
+      "refueling station",
+      "700 bar",
+      "pre-cooling",
+      "Type IV tank"
+    ]
+  },
+  {
+    "id": "jrc-hdv-co2-vecto-monitoring-2024",
+    "title": "JRC VECTO Tool Verification: Heavy-Duty Vehicle CO2 Emissions & Aerodynamic Trailer Drag",
+    "category": "hydrogen_heavy_duty",
+    "publication_year": 2024,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-hdv-co2-vecto-monitoring-2024",
+    "metadata_text": "Title: JRC VECTO Tool Verification: Heavy-Duty Vehicle CO2 Emissions & Aerodynamic Trailer Drag\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-hdv-co2-vecto-monitoring-2024\nCategory: hydrogen_heavy_duty\nPublication Year: 2024\nTags: heavy duty, HDV, VECTO, CO2 emissions, aerodynamics, fuel consumption\n\nDescription:\nOn-road validation of VECTO (Vehicle Energy Consumption Calculation Tool) for Class 5 40-tonne long-haul truck tractor-trailers. Aerodynamic side skirts and boat tails reduced fuel consumption by 1.8 l/100km (approx. 5% CO2 saving) at 85 km/h cruise.\n\nAvailable Resources:\n- JRC_VECTO_HDV_Validation_2024.pdf (PDF): VECTO simulation accuracy vs track testing.",
+    "pdf_text": "",
+    "tags": [
+      "heavy duty",
+      "HDV",
+      "VECTO",
+      "CO2 emissions",
+      "aerodynamics",
+      "fuel consumption"
+    ]
+  },
+  {
+    "id": "jrc-adas-safety-evaluation-2023",
+    "title": "JRC Assessment of Advanced Driver Assistance Systems (ADAS) & Autonomous Vehicle Safety",
+    "category": "autonomous_adas",
+    "publication_year": 2023,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-adas-safety-evaluation-2023",
+    "metadata_text": "Title: JRC Assessment of Advanced Driver Assistance Systems (ADAS) & Autonomous Vehicle Safety\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-adas-safety-evaluation-2023\nCategory: autonomous_adas\nPublication Year: 2023\nTags: autonomous vehicle safety ADAS, AEB, LKA, sensor fusion, adverse weather, JRC safety\n\nDescription:\nTrack and hardware-in-the-loop (HIL) simulation testing of ADAS safety functions including Autonomous Emergency Braking (AEB) and Lane Keeping Assist (LKA) under adverse weather conditions (heavy rain >25 mm/h, dense fog, low sun angle glares). Optical camera detection range drops by up to 70% in heavy rain, requiring mmWave radar and LiDAR sensor fusion.\n\nAvailable Resources:\n- JRC_ADAS_Safety_Testing_2023.pdf (PDF): Safety evaluation report of vehicle ADAS features under challenging weather scenarios.",
+    "pdf_text": "",
+    "tags": [
+      "autonomous vehicle safety ADAS",
+      "AEB",
+      "LKA",
+      "sensor fusion",
+      "adverse weather",
+      "JRC safety"
+    ]
+  },
+  {
+    "id": "jrc-av-cybersecurity-un-r155-2024",
+    "title": "JRC Compliance Framework: Automated Vehicle Cybersecurity & OTA Update Auditing (UN R155/R156)",
+    "category": "autonomous_adas",
+    "publication_year": 2024,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-av-cybersecurity-un-r155-2024",
+    "metadata_text": "Title: JRC Compliance Framework: Automated Vehicle Cybersecurity & OTA Update Auditing (UN R155/R156)\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-av-cybersecurity-un-r155-2024\nCategory: autonomous_adas\nPublication Year: 2024\nTags: autonomous vehicles, cybersecurity, UN R155, UN R156, OTA update, CSMS\n\nDescription:\nPenetration testing guidelines and Cyber Security Management System (CSMS) audit protocols for connected and automated vehicles under UN Regulation No. 155 and Over-The-Air (OTA) updates under UN R156.\n\nAvailable Resources:\n- JRC_AV_Cybersecurity_Audit_2024.pdf (PDF): Automated vehicle cybersecurity compliance checklist.",
+    "pdf_text": "",
+    "tags": [
+      "autonomous vehicles",
+      "cybersecurity",
+      "UN R155",
+      "UN R156",
+      "OTA update",
+      "CSMS"
+    ]
+  },
+  {
+    "id": "jrc-av-odd-boundary-testing-2024",
+    "title": "JRC Operational Design Domain (ODD) Boundary Conditions for Level 3/4 Automated Driving Systems",
+    "category": "autonomous_adas",
+    "publication_year": 2024,
+    "organization": "European Commission - Joint Research Centre (JRC)",
+    "url": "https://data.jrc.ec.europa.eu/dataset/jrc-av-odd-boundary-testing-2024",
+    "metadata_text": "Title: JRC Operational Design Domain (ODD) Boundary Conditions for Level 3/4 Automated Driving Systems\nOrganization: European Commission - Joint Research Centre (JRC)\nSource URL: https://data.jrc.ec.europa.eu/dataset/jrc-av-odd-boundary-testing-2024\nCategory: autonomous_adas\nPublication Year: 2024\nTags: autonomous vehicles, ODD, Level 3, takeover request, TOR, human factors\n\nDescription:\nEmpirical evaluation of handover request (TOR) transition times when automated driving systems encounter ODD exit conditions (missing lane markings, construction zones). Average human driver intervention reaction time was 3.4 seconds.\n\nAvailable Resources:\n- JRC_AV_ODD_Boundaries_2024.pdf (PDF): ODD boundary condition testing and handover safety.",
+    "pdf_text": "",
+    "tags": [
+      "autonomous vehicles",
+      "ODD",
+      "Level 3",
+      "takeover request",
+      "TOR",
+      "human factors"
+    ]
+  }
+]

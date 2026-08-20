@@ -1,0 +1,419 @@
+{
+  "total_documents": 26,
+  "total_categories": 5,
+  "categories": {
+    "electric_vehicle": 10,
+    "phev_hybrids": 5,
+    "rde_emissions": 5,
+    "hydrogen_heavy_duty": 3,
+    "autonomous_adas": 3
+  },
+  "year_range": {
+    "min": 2023,
+    "max": 2024
+  },
+  "created_at": "2026-08-20T16:25:06.663765",
+  "documents_manifest": [
+    {
+      "document_id": "jrc-bev-cold-temp-2024",
+      "title": "JRC EV Cold Weather Real-World Energy Consumption & Sub-Zero Range Degradation",
+      "category": "electric_vehicle",
+      "publication_year": 2024,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-bev-cold-temp-2024",
+      "tags": [
+        "electric vehicle",
+        "cold weather",
+        "range degradation",
+        "BEV",
+        "battery efficiency",
+        "VELA"
+      ]
+    },
+    {
+      "document_id": "jrc-bev-heat-pump-cop-2024",
+      "title": "JRC VELA Laboratory: BEV Heat Pump Coefficient of Performance (COP) & Range Recovery Analysis",
+      "category": "electric_vehicle",
+      "publication_year": 2024,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-bev-heat-pump-cop-2024",
+      "tags": [
+        "electric vehicle",
+        "heat pump",
+        "COP",
+        "thermal management",
+        "PTC heater",
+        "BEV efficiency"
+      ]
+    },
+    {
+      "document_id": "jrc-bev-fast-charge-degradation-2023",
+      "title": "JRC Battery Cell Durability: High-Power Fast Charging (DCFC) Thermal Stress & Capacity Fade",
+      "category": "electric_vehicle",
+      "publication_year": 2023,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-bev-fast-charge-degradation-2023",
+      "tags": [
+        "electric vehicle",
+        "fast charging",
+        "battery degradation",
+        "NMC",
+        "LFP",
+        "SEI layer"
+      ]
+    },
+    {
+      "document_id": "jrc-ev-battery-soh-estimation-2023",
+      "title": "JRC In-Service Battery State of Health (SoH) Monitoring & Eco-Design Verification",
+      "category": "electric_vehicle",
+      "publication_year": 2023,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-ev-battery-soh-estimation-2023",
+      "tags": [
+        "electric vehicle",
+        "State of Health",
+        "SoH",
+        "battery durability",
+        "BMS",
+        "Euro 7"
+      ]
+    },
+    {
+      "document_id": "jrc-bev-auxiliary-load-impact-2024",
+      "title": "JRC Investigation of Auxiliary Electrical Loads on BEV Urban Driving Efficiency",
+      "category": "electric_vehicle",
+      "publication_year": 2024,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-bev-auxiliary-load-impact-2024",
+      "tags": [
+        "electric vehicle",
+        "auxiliary loads",
+        "urban energy efficiency",
+        "BEV consumption"
+      ]
+    },
+    {
+      "document_id": "jrc-ev-regenerative-braking-2023",
+      "title": "JRC Test Report: Regenerative Braking Energy Recovery Efficiency across Temperature Gradients",
+      "category": "electric_vehicle",
+      "publication_year": 2023,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-ev-regenerative-braking-2023",
+      "tags": [
+        "electric vehicle",
+        "regenerative braking",
+        "energy recuperation",
+        "bms throttling"
+      ]
+    },
+    {
+      "document_id": "jrc-bev-tire-rolling-resistance-2024",
+      "title": "JRC Study on EV Specific Winter Tires & Aerodynamic Drag Influence on Highway Range",
+      "category": "electric_vehicle",
+      "publication_year": 2024,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-bev-tire-rolling-resistance-2024",
+      "tags": [
+        "electric vehicle",
+        "rolling resistance",
+        "aerodynamic drag",
+        "winter tires"
+      ]
+    },
+    {
+      "document_id": "jrc-ev-grid-integration-v2g-2023",
+      "title": "JRC Vehicle-to-Grid (V2G) Bi-Directional Charging Efficiency & Battery Stress Assessment",
+      "category": "electric_vehicle",
+      "publication_year": 2023,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-ev-grid-integration-v2g-2023",
+      "tags": [
+        "electric vehicle",
+        "V2G",
+        "bi-directional charging",
+        "grid integration",
+        "efficiency"
+      ]
+    },
+    {
+      "document_id": "jrc-ev-thermal-runaway-safety-2024",
+      "title": "JRC Safety Assessment: Battery Thermal Runaway Propagation & Mitigation Standards",
+      "category": "electric_vehicle",
+      "publication_year": 2024,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-ev-thermal-runaway-safety-2024",
+      "tags": [
+        "electric vehicle",
+        "battery safety",
+        "thermal runaway",
+        "UN ECE R100",
+        "battery pack"
+      ]
+    },
+    {
+      "document_id": "jrc-ev-fleet-charging-behavior-2023",
+      "title": "JRC European EV Fleet Charging Infrastructure Utilization & Load Profile Dataset",
+      "category": "electric_vehicle",
+      "publication_year": 2023,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-ev-fleet-charging-behavior-2023",
+      "tags": [
+        "electric vehicle",
+        "charging infrastructure",
+        "charging profiles",
+        "fleet data"
+      ]
+    },
+    {
+      "document_id": "jrc-phev-wltp-gap-2023",
+      "title": "JRC Market Surveillance: Real-World Fuel Consumption vs official WLTP Ratings for Plug-In Hybrids",
+      "category": "phev_hybrids",
+      "publication_year": 2023,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-phev-wltp-gap-2023",
+      "tags": [
+        "plug-in hybrid",
+        "PHEV",
+        "WLTP gap",
+        "real world fuel consumption",
+        "OBFCM",
+        "utility factor"
+      ]
+    },
+    {
+      "document_id": "jrc-phev-utility-factor-revision-2024",
+      "title": "JRC Proposal for Revised PHEV Utility Factor Curves under Euro 6e / Euro 7 Norms",
+      "category": "phev_hybrids",
+      "publication_year": 2024,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-phev-utility-factor-revision-2024",
+      "tags": [
+        "plug-in hybrid",
+        "utility factor",
+        "Euro 6e",
+        "Euro 7",
+        "CO2 compliance"
+      ]
+    },
+    {
+      "document_id": "jrc-phev-cold-engine-emissions-2023",
+      "title": "JRC Study: Cold Internal Combustion Engine Activation Emissions in PHEV Charge-Depleting Mode",
+      "category": "phev_hybrids",
+      "publication_year": 2023,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-phev-cold-engine-emissions-2023",
+      "tags": [
+        "plug-in hybrid",
+        "charge depleting mode",
+        "cold start",
+        "NOx spikes",
+        "PHEV emissions"
+      ]
+    },
+    {
+      "document_id": "jrc-phev-battery-degradation-field-2024",
+      "title": "JRC Field Investigation: High-C Rate Cycle Aging of PHEV Traction Batteries",
+      "category": "phev_hybrids",
+      "publication_year": 2024,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-phev-battery-degradation-field-2024",
+      "tags": [
+        "plug-in hybrid",
+        "battery degradation",
+        "C-rate",
+        "capacity loss",
+        "PHEV battery"
+      ]
+    },
+    {
+      "document_id": "jrc-phev-commercial-fleet-monitoring-2023",
+      "title": "JRC Report: PHEVs in Corporate Fleets — Fuel Consumption & Charging Practices Analysis",
+      "category": "phev_hybrids",
+      "publication_year": 2023,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-phev-commercial-fleet-monitoring-2023",
+      "tags": [
+        "plug-in hybrid",
+        "corporate fleet",
+        "fuel consumption",
+        "charge sustaining mode"
+      ]
+    },
+    {
+      "document_id": "jrc-rde-vehicle-emissions-2023",
+      "title": "JRC Real Driving Emissions (RDE) Passenger Car On-Road Testing Campaign",
+      "category": "rde_emissions",
+      "publication_year": 2023,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-rde-vehicle-emissions-2023",
+      "tags": [
+        "vehicle emissions",
+        "RDE",
+        "PEMS",
+        "NOx",
+        "CO2 emissions",
+        "Euro 6d",
+        "real driving conditions"
+      ]
+    },
+    {
+      "document_id": "jrc-rde-pn-10nm-particles-2024",
+      "title": "JRC Sub-23nm Particle Number (PN) Emissions Measurement under Euro 7 RDE Protocols",
+      "category": "rde_emissions",
+      "publication_year": 2024,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-rde-pn-10nm-particles-2024",
+      "tags": [
+        "vehicle emissions",
+        "RDE",
+        "PN10",
+        "ultrafine particles",
+        "Euro 7",
+        "GPF"
+      ]
+    },
+    {
+      "document_id": "jrc-co2-monitoring-obfcm-2024",
+      "title": "JRC Report: Real-World CO2 Emissions & Fuel Consumption Monitoring of EU Passenger Fleet",
+      "category": "rde_emissions",
+      "publication_year": 2024,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-co2-monitoring-obfcm-2024",
+      "tags": [
+        "CO2 emissions",
+        "passenger cars",
+        "WLTP",
+        "OBFCM",
+        "fuel consumption monitoring real world"
+      ]
+    },
+    {
+      "document_id": "jrc-rde-extreme-temperature-emissions-2023",
+      "title": "JRC Assessment of RDE Emission Performance under Extreme Ambient Temperatures (-7°C to 35°C)",
+      "category": "rde_emissions",
+      "publication_year": 2023,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-rde-extreme-temperature-emissions-2023",
+      "tags": [
+        "vehicle emissions",
+        "RDE",
+        "extreme temperatures",
+        "SCR dosing",
+        "NOx penalty"
+      ]
+    },
+    {
+      "document_id": "jrc-brake-tire-wear-emissions-2024",
+      "title": "JRC Measurement of Non-Exhaust Brake and Tire Wear Particulate Matter (PM2.5 / PM10)",
+      "category": "rde_emissions",
+      "publication_year": 2024,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-brake-tire-wear-emissions-2024",
+      "tags": [
+        "non-exhaust emissions",
+        "brake wear",
+        "tire wear",
+        "PM2.5",
+        "Euro 7",
+        "BEV mass"
+      ]
+    },
+    {
+      "document_id": "jrc-fcev-durability-testing-2024",
+      "title": "JRC Fuel Cell Electric Vehicle (FCEV) Heavy-Duty Stack Durability & Degradation Campaign",
+      "category": "hydrogen_heavy_duty",
+      "publication_year": 2024,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-fcev-durability-testing-2024",
+      "tags": [
+        "hydrogen",
+        "fuel cell",
+        "FCEV",
+        "PEMFC",
+        "heavy duty",
+        "durability",
+        "MEA degradation"
+      ]
+    },
+    {
+      "document_id": "jrc-hydrogen-refueling-hrs-safety-2023",
+      "title": "JRC Technical Standards for 700 bar Heavy-Duty Hydrogen Refueling Stations (HRS)",
+      "category": "hydrogen_heavy_duty",
+      "publication_year": 2023,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-hydrogen-refueling-hrs-safety-2023",
+      "tags": [
+        "hydrogen",
+        "HRS",
+        "refueling station",
+        "700 bar",
+        "pre-cooling",
+        "Type IV tank"
+      ]
+    },
+    {
+      "document_id": "jrc-hdv-co2-vecto-monitoring-2024",
+      "title": "JRC VECTO Tool Verification: Heavy-Duty Vehicle CO2 Emissions & Aerodynamic Trailer Drag",
+      "category": "hydrogen_heavy_duty",
+      "publication_year": 2024,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-hdv-co2-vecto-monitoring-2024",
+      "tags": [
+        "heavy duty",
+        "HDV",
+        "VECTO",
+        "CO2 emissions",
+        "aerodynamics",
+        "fuel consumption"
+      ]
+    },
+    {
+      "document_id": "jrc-adas-safety-evaluation-2023",
+      "title": "JRC Assessment of Advanced Driver Assistance Systems (ADAS) & Autonomous Vehicle Safety",
+      "category": "autonomous_adas",
+      "publication_year": 2023,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-adas-safety-evaluation-2023",
+      "tags": [
+        "autonomous vehicle safety ADAS",
+        "AEB",
+        "LKA",
+        "sensor fusion",
+        "adverse weather",
+        "JRC safety"
+      ]
+    },
+    {
+      "document_id": "jrc-av-cybersecurity-un-r155-2024",
+      "title": "JRC Compliance Framework: Automated Vehicle Cybersecurity & OTA Update Auditing (UN R155/R156)",
+      "category": "autonomous_adas",
+      "publication_year": 2024,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-av-cybersecurity-un-r155-2024",
+      "tags": [
+        "autonomous vehicles",
+        "cybersecurity",
+        "UN R155",
+        "UN R156",
+        "OTA update",
+        "CSMS"
+      ]
+    },
+    {
+      "document_id": "jrc-av-odd-boundary-testing-2024",
+      "title": "JRC Operational Design Domain (ODD) Boundary Conditions for Level 3/4 Automated Driving Systems",
+      "category": "autonomous_adas",
+      "publication_year": 2024,
+      "source": "European Commission - Joint Research Centre (JRC)",
+      "url": "https://data.jrc.ec.europa.eu/dataset/jrc-av-odd-boundary-testing-2024",
+      "tags": [
+        "autonomous vehicles",
+        "ODD",
+        "Level 3",
+        "takeover request",
+        "TOR",
+        "human factors"
+      ]
+    }
+  ]
+}

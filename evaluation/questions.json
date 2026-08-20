@@ -1,0 +1,244 @@
+[
+  {
+    "id": "GRP-A-01",
+    "group": "Group A - Normal",
+    "category": "electric_vehicle",
+    "question": "How does cold weather affect real-world energy consumption in battery electric vehicles according to JRC data?",
+    "expected_topics": ["cold weather", "range degradation", "sub-zero", "VELA", "battery efficiency"],
+    "expected_retry": false
+  },
+  {
+    "id": "GRP-A-02",
+    "group": "Group A - Normal",
+    "category": "electric_vehicle",
+    "question": "What is the heat pump coefficient of performance (COP) in BEVs during low ambient temperature testing?",
+    "expected_topics": ["heat pump", "COP", "PTC heater", "thermal management"],
+    "expected_retry": false
+  },
+  {
+    "id": "GRP-A-03",
+    "group": "Group A - Normal",
+    "category": "phev_hybrids",
+    "question": "What is the numerical gap between official WLTP fuel ratings and real-world fuel consumption for PHEVs?",
+    "expected_topics": ["WLTP gap", "real world fuel consumption", "PHEV", "OBFCM"],
+    "expected_retry": false
+  },
+  {
+    "id": "GRP-A-04",
+    "group": "Group A - Normal",
+    "category": "phev_hybrids",
+    "question": "How does JRC propose revising PHEV utility factor formulas under Euro 6e and Euro 7 regulations?",
+    "expected_topics": ["utility factor", "Euro 6e", "Euro 7", "CO2 compliance"],
+    "expected_retry": false
+  },
+  {
+    "id": "GRP-A-05",
+    "group": "Group A - Normal",
+    "category": "rde_emissions",
+    "question": "What are the key findings on passenger car NOx emission conformity factors during JRC RDE testing?",
+    "expected_topics": ["RDE", "PEMS", "NOx", "conformity factors", "Euro 6d"],
+    "expected_retry": false
+  },
+  {
+    "id": "GRP-A-06",
+    "group": "Group A - Normal",
+    "category": "rde_emissions",
+    "question": "How does measuring sub-23nm particle numbers (PN10) affect direct-injection gasoline particle limits under Euro 7?",
+    "expected_topics": ["PN10", "ultrafine particles", "sub-23nm", "Euro 7", "GPF"],
+    "expected_retry": false
+  },
+  {
+    "id": "GRP-A-07",
+    "group": "Group A - Normal",
+    "category": "hydrogen_heavy_duty",
+    "question": "What is the voltage degradation rate of heavy-duty fuel cell (PEMFC) stacks during dynamic load cycling?",
+    "expected_topics": ["fuel cell", "PEMFC", "heavy duty", "stack durability", "voltage degradation"],
+    "expected_retry": false
+  },
+  {
+    "id": "GRP-A-08",
+    "group": "Group A - Normal",
+    "category": "hydrogen_heavy_duty",
+    "question": "Why is -40°C hydrogen pre-cooling required during 700 bar high-flow refueling of heavy-duty trucks?",
+    "expected_topics": ["hydrogen", "HRS", "700 bar", "pre-cooling", "Type IV tank"],
+    "expected_retry": false
+  },
+  {
+    "id": "GRP-A-09",
+    "group": "Group A - Normal",
+    "category": "autonomous_adas",
+    "question": "How do heavy rain and fog degrade ADAS camera detection, and why is radar sensor fusion necessary?",
+    "expected_topics": ["ADAS", "sensor fusion", "adverse weather", "AEB"],
+    "expected_retry": false
+  },
+  {
+    "id": "GRP-A-10",
+    "group": "Group A - Normal",
+    "category": "autonomous_adas",
+    "question": "What cybersecurity and OTA software update compliance standards are defined under UN R155/R156 guidelines?",
+    "expected_topics": ["cybersecurity", "UN R155", "UN R156", "OTA update"],
+    "expected_retry": false
+  },
+
+  {
+    "id": "GRP-B-01",
+    "group": "Group B - Hard Retrieval",
+    "category": "electric_vehicle",
+    "question": "What specific accelerated aging mechanism accelerates SEI layer growth when ultra-fast DC charging below 15°C?",
+    "expected_topics": ["SEI layer", "fast charging", "capacity fade", "NMC-811"],
+    "expected_retry": false
+  },
+  {
+    "id": "GRP-B-02",
+    "group": "Group B - Hard Retrieval",
+    "category": "electric_vehicle",
+    "question": "How much energy do non-powertrain auxiliary electrical loads consume during slow urban traffic congestion?",
+    "expected_topics": ["auxiliary loads", "urban energy efficiency", "non-powertrain"],
+    "expected_retry": false
+  },
+  {
+    "id": "GRP-B-03",
+    "group": "Group B - Hard Retrieval",
+    "category": "electric_vehicle",
+    "question": "What percentage of BMS regenerative braking power acceptance is throttled at -10°C to prevent lithium plating?",
+    "expected_topics": ["regenerative braking", "bms throttling", "lithium plating"],
+    "expected_retry": false
+  },
+  {
+    "id": "GRP-B-04",
+    "group": "Group B - Hard Retrieval",
+    "category": "phev_hybrids",
+    "question": "What short NOx emission spikes occur when sudden acceleration ignites a cold internal combustion engine in PHEV electric mode?",
+    "expected_topics": ["charge depleting", "cold engine start", "NOx spikes"],
+    "expected_retry": false
+  },
+  {
+    "id": "GRP-B-05",
+    "group": "Group B - Hard Retrieval",
+    "category": "phev_hybrids",
+    "question": "What is the average fuel consumption penalty of uncharged company PHEVs operating in charge-sustaining mode?",
+    "expected_topics": ["corporate fleet", "fuel consumption", "charge sustaining mode"],
+    "expected_retry": false
+  },
+  {
+    "id": "GRP-B-06",
+    "group": "Group B - Hard Retrieval",
+    "category": "rde_emissions",
+    "question": "How do sub-zero ambient temperatures (-7°C) delay SCR catalyst dosing and increase trip NOx emissions?",
+    "expected_topics": ["extreme temperatures", "SCR dosing", "NOx penalty"],
+    "expected_retry": false
+  },
+  {
+    "id": "GRP-B-07",
+    "group": "Group B - Hard Retrieval",
+    "category": "rde_emissions",
+    "question": "How much does BEV regenerative braking reduce friction brake wear PM2.5 particle mass emissions?",
+    "expected_topics": ["non-exhaust emissions", "brake wear", "PM2.5"],
+    "expected_retry": false
+  },
+  {
+    "id": "GRP-B-08",
+    "group": "Group B - Hard Retrieval",
+    "category": "hydrogen_heavy_duty",
+    "question": "How accurately does the VECTO simulation tool model trailer aerodynamic side skirts fuel savings for Class 5 trucks?",
+    "expected_topics": ["heavy duty", "VECTO", "aerodynamics"],
+    "expected_retry": false
+  },
+  {
+    "id": "GRP-B-09",
+    "group": "Group B - Hard Retrieval",
+    "category": "autonomous_adas",
+    "question": "What is the average human driver intervention reaction time (TOR) when Level 3 automated driving exits its ODD boundary?",
+    "expected_topics": ["ODD", "Level 3", "takeover request", "TOR"],
+    "expected_retry": false
+  },
+  {
+    "id": "GRP-B-10",
+    "group": "Group B - Hard Retrieval",
+    "category": "electric_vehicle",
+    "question": "What round-trip AC/DC efficiency is achieved during vehicle-to-grid (V2G) bi-directional grid peak shaving?",
+    "expected_topics": ["V2G", "bi-directional charging", "round-trip efficiency"],
+    "expected_retry": false
+  },
+
+  {
+    "id": "GRP-C-01",
+    "group": "Group C - Recovery",
+    "category": "cross_domain",
+    "question": "Compare battery-electric vehicle cold weather range degradation with heavy-duty hydrogen fuel cell stack durability and PHEV WLTP real-world fuel gaps under Euro 7 regulations.",
+    "expected_topics": ["cold weather", "range degradation", "PEMFC", "fuel cell durability", "PHEV", "WLTP gap", "Euro 7"],
+    "expected_retry": true
+  },
+  {
+    "id": "GRP-C-02",
+    "group": "Group C - Recovery",
+    "category": "cross_domain",
+    "question": "What is the measured heat pump COP efficiency in BEVs AND what are the high-flow 700 bar hydrogen refueling station safety protocols for heavy-duty trucks?",
+    "expected_topics": ["heat pump", "COP", "hydrogen", "700 bar", "HRS"],
+    "expected_retry": true
+  },
+  {
+    "id": "GRP-C-03",
+    "group": "Group C - Recovery",
+    "category": "cross_domain",
+    "question": "Compare real-world passenger car NOx conformity factors during RDE testing with ADAS camera optical detection degradation under heavy rain and fog.",
+    "expected_topics": ["RDE", "PEMS", "NOx", "ADAS", "camera degradation", "sensor fusion"],
+    "expected_retry": true
+  },
+  {
+    "id": "GRP-C-04",
+    "group": "Group C - Recovery",
+    "category": "cross_domain",
+    "question": "What is the real-world fuel consumption gap for PHEVs in corporate fleets AND how does VECTO model heavy-duty trailer aerodynamic drag savings?",
+    "expected_topics": ["PHEV", "OBFCM", "corporate fleet", "VECTO", "aerodynamics"],
+    "expected_retry": true
+  },
+  {
+    "id": "GRP-C-05",
+    "group": "Group C - Recovery",
+    "category": "cross_domain",
+    "question": "How do sub-zero temperatures (-7°C) affect diesel SCR catalyst dosing delay AND what battery thermal runaway barrier materials meet UN ECE R100 safety standards?",
+    "expected_topics": ["SCR dosing", "NOx penalty", "thermal runaway", "UN ECE R100", "battery pack"],
+    "expected_retry": true
+  },
+  {
+    "id": "GRP-C-06",
+    "group": "Group C - Recovery",
+    "category": "cross_domain",
+    "question": "How much does BEV regenerative braking reduce brake wear PM2.5 emissions AND what automated vehicle cybersecurity compliance auditing is required under UN R155?",
+    "expected_topics": ["brake wear", "PM2.5", "non-exhaust", "cybersecurity", "UN R155"],
+    "expected_retry": true
+  },
+  {
+    "id": "GRP-C-07",
+    "group": "Group C - Recovery",
+    "category": "cross_domain",
+    "question": "What is the fast-charging battery degradation acceleration rate for BEVs AND how cold internal combustion engine starts cause NOx spikes in PHEVs?",
+    "expected_topics": ["fast charging", "capacity fade", "SEI layer", "PHEV", "cold start", "NOx spikes"],
+    "expected_retry": true
+  },
+  {
+    "id": "GRP-C-08",
+    "group": "Group C - Recovery",
+    "category": "cross_domain",
+    "question": "What proportion of EV charging energy is delivered by 7 kW home chargers AND what is the human driver intervention reaction time (TOR) when Level 3 driving exits its ODD boundary?",
+    "expected_topics": ["charging behavior", "home chargers", "ODD", "Level 3", "takeover request"],
+    "expected_retry": true
+  },
+  {
+    "id": "GRP-C-09",
+    "group": "Group C - Recovery",
+    "category": "cross_domain",
+    "question": "How does sub-23nm particle number (PN10) testing affect Euro 7 gasoline emissions AND what voltage degradation occurs in 150 kW fuel cell heavy-duty truck stacks?",
+    "expected_topics": ["PN10", "ultrafine particles", "Euro 7", "fuel cell", "voltage degradation"],
+    "expected_retry": true
+  },
+  {
+    "id": "GRP-C-10",
+    "group": "Group C - Recovery",
+    "category": "cross_domain",
+    "question": "What auxiliary electrical power draw occurs during urban EV traffic congestion AND how does JRC propose updating PHEV utility factor formulas for Euro 6e CO2 compliance?",
+    "expected_topics": ["auxiliary loads", "urban energy", "utility factor", "Euro 6e", "PHEV"],
+    "expected_retry": true
+  }
+]

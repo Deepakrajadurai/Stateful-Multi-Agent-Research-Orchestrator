@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langgraph
+langchain-ollama
+chromadb
+pdfplumber
+requests
+fastapi
+uvicorn
+python-dotenv
+pydantic
+sentence-transformers

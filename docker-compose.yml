@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: research_orchestrator_api
+    ports:
+      - "8000:8000"
+    environment:
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - OLLAMA_MODEL=llama3.2
+      - EMBED_MODEL=nomic-embed-text
+      - CHROMA_PATH=./2_vectorstore/chroma_db
+    volumes:
+      - ./2_vectorstore/chroma_db:/app/2_vectorstore/chroma_db
+      - ./1_data:/app/1_data
+    depends_on:
+      - ollama
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: research_orchestrator_frontend
+    command: python -m http.server 3000 --directory 6_frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - api
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: research_orchestrator_ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_storage:/root/.ollama
+
+volumes:
+  ollama_storage:
