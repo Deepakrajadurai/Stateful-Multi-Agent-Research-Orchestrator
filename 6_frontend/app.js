@@ -50,6 +50,29 @@ async function submitQuery() {
   }
 }
 
+function formatMarkdownToHtml(markdown) {
+  if (!markdown) return "";
+
+  // Clean raw markdown tags into formatted HTML
+  let html = markdown
+    // Sanitize any replacement character glitched symbols
+    .replace(/C/g, '°C')
+    .replace(//g, "'")
+    // Convert Headers
+    .replace(/^### (.*$)/gim, '<h4 style="color:#a5b4fc; font-family:\'Outfit\',sans-serif; font-size:1.1rem; font-weight:700; margin-top:20px; margin-bottom:10px; border-bottom:1px solid rgba(255,255,255,0.08); padding-bottom:6px;">$1</h4>')
+    .replace(/^#### (.*$)/gim, '<h5 style="color:#c7d2fe; font-family:\'Outfit\',sans-serif; font-size:0.975rem; font-weight:600; margin-top:16px; margin-bottom:8px;">$1</h5>')
+    // Convert Bold and Italics
+    .replace(/\*\*(.*?)\*\*/g, '<strong style="color:#ffffff; font-weight:600;">$1</strong>')
+    .replace(/\*(.*?)\*/g, '<em style="color:#cbd5e1;">$1</em>')
+    // Convert Bullets
+    .replace(/^\- (.*$)/gim, '<div style="margin-left:12px; margin-bottom:8px; padding-left:12px; border-left:2px solid rgba(99,102,241,0.4); color:#e2e8f0; line-height:1.6;">$1</div>')
+    // Convert double and single line breaks cleanly
+    .replace(/\n\n/g, '<div style="height:12px;"></div>')
+    .replace(/\n/g, '<br/>');
+
+  return html;
+}
+
 function renderResults(data) {
   const results = document.getElementById("results");
 
@@ -79,6 +102,9 @@ function renderResults(data) {
   const subQuestionsHtml = (data.sub_questions || []).map(sq =>
     `<div class="sub-q">${escapeHtml(sq)}</div>`
   ).join("");
+
+  // Clean answer text: format markdown to HTML without raw markup tags
+  const cleanAnswerHtml = formatMarkdownToHtml(data.answer);
 
   // Render Provenance Metadata Cards
   const provenanceHtml = (data.sources_metadata && data.sources_metadata.length > 0)
@@ -118,7 +144,7 @@ function renderResults(data) {
 
     <div class="card">
       <h3>Synthesised Evidence Report</h3>
-      <div class="answer">${escapeHtml(data.answer)}</div>
+      <div class="answer">${cleanAnswerHtml}</div>
     </div>
 
     <div class="card">
